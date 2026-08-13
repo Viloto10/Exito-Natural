@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "pilar": "Fuerza vital y autosanación",
+    "principio": "Vis medicatrix naturae",
+    "descripcion": "El cuerpo tiene una capacidad innata de autosanación; el rol del estilo de vida natural es remover obstáculos y darle al organismo las condiciones para ejercer esa capacidad.",
+    "habito": "Confiar en la capacidad natural del cuerpo para regenerarse cuando se le dan las condiciones correctas: descanso, nutrición e higiene de vida.",
+    "complemento_nsp": "Filosofía de marca 'No competimos con la naturaleza, aprendemos de ella': ingredientes botánicos en su forma más pura como apoyo al proceso natural del cuerpo, no como sustituto de él.",
+    "imagen": "./assets/pilares/1-fuerza-vital.jpeg"
+  },
+  {
+    "id": 2,
+    "pilar": "Atender la causa, no solo el síntoma",
+    "principio": "Tolle causam",
+    "descripcion": "En vez de enfocarse únicamente en calmar una molestia puntual, se busca identificar qué está generando el desequilibrio de fondo.",
+    "habito": "Observar qué parte del cuerpo está pidiendo atención antes de que aparezca una molestia mayor.",
+    "complemento_nsp": "El ASV evalúa los 9 sistemas del cuerpo (digestivo, circulatorio, nervioso, inmunológico, respiratorio, estructural, endocrino, urinario y nutrición general) para dirigir el apoyo hacia donde realmente se necesita.",
+    "imagen": "./assets/pilares/2-atiende-la-causa.jpeg"
+  },
+  {
+    "id": 3,
+    "pilar": "Alimentación natural",
+    "principio": "Alimentación consciente",
+    "descripcion": "Una nutrición desequilibrada es, para la naturopatía, una de las principales fuentes de pérdida de salud.",
+    "habito": "Priorizar alimentos íntegros, de origen vegetal cuando sea posible, y reducir ultraprocesados.",
+    "complemento_nsp": "Línea de nutrición general (multivitamínicos, superalimentos como Spirulina o Zambroza) diseñada para complementar —no reemplazar— una alimentación consciente.",
+    "imagen": "./assets/pilares/3-alimentacion-natural.jpeg"
+  },
+  {
+    "id": 4,
+    "pilar": "Desintoxicación",
+    "principio": "Purificación",
+    "descripcion": "La acumulación de toxinas —por alimentación, ambiente o estrés— se considera una causa constante de desequilibrio.",
+    "habito": "Dar al organismo pausas de limpieza: hidratación, fibra natural, reducir la carga tóxica diaria.",
+    "complemento_nsp": "Programa 90 Días Sunshine, estructurado en 3 fases (Limpiar, Construir, Mantener) para acompañar procesos de depuración de forma progresiva.",
+    "imagen": "./assets/pilares/4-desintoxicacion.jpeg"
+  },
+  {
+    "id": 5,
+    "pilar": "Equilibrio entre actividad y descanso",
+    "principio": "Ritmo natural",
+    "descripcion": "En los organismos vivos el reposo siempre se alterna con la actividad: sueño y vigilia, esfuerzo y recuperación.",
+    "habito": "Respetar ciclos de sueño, alternar esfuerzo con recuperación y gestionar el estrés cotidiano.",
+    "complemento_nsp": "Apoyo nutricional dirigido al sistema nervioso dentro del catálogo por sistemas, pensado para acompañar rutinas de descanso y manejo del estrés ocasional.",
+    "imagen": "./assets/pilares/5-equilibrio-descanso.jpeg"
+  },
+  {
+    "id": 6,
+    "pilar": "Visión integral y prevención",
+    "principio": "Tolle totum / Preventare",
+    "descripcion": "La persona se aborda como una unidad —física, mental y de hábitos— y se prioriza anticiparse a la enfermedad en lugar de esperar a que aparezca.",
+    "habito": "Ver el cuerpo como un todo conectado y anticiparse, en lugar de esperar a que aparezca un problema.",
+    "complemento_nsp": "El ASV mismo funciona como herramienta preventiva: un punto de partida para el autoconocimiento antes de que exista una queja específica.",
+    "imagen": "./assets/pilares/6-vision-integral.jpeg"
+  }
+]

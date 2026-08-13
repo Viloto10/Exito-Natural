@@ -1,0 +1,66 @@
+[
+  {
+    "Sistema": "Digestivo / Intestinal",
+    "Kit": "Kit Recomendado Detox",
+    "Código": "P240250001",
+    "Productos Incluidos": "LBS II + Psyllium Hulls + Black Walnut + Burdock",
+    "Precio USD": 60.4,
+    "Observaciones": "Kit oficial recomendado para limpieza intestinal y apoyo digestivo."
+  },
+  {
+    "Sistema": "Circulatorio",
+    "Kit": "Kit Circulatorio",
+    "Código": "Por definir",
+    "Productos Incluidos": "Mega-Chel + Clorofila",
+    "Precio USD": 116.6,
+    "Observaciones": "Recomendación comercial Éxito Natural."
+  },
+  {
+    "Sistema": "Inmunológico",
+    "Kit": "Kit Inmunológico",
+    "Código": "Por definir",
+    "Productos Incluidos": "Colostrum + Pau d'Arco",
+    "Precio USD": 95,
+    "Observaciones": "Recomendación comercial Éxito Natural."
+  },
+  {
+    "Sistema": "Respiratorio",
+    "Kit": "Kit Respiratorio",
+    "Código": "Por definir",
+    "Productos Incluidos": "ALJ Cápsulas + Pau d'Arco",
+    "Precio USD": 75.8,
+    "Observaciones": "Recomendación comercial Éxito Natural."
+  },
+  {
+    "Sistema": "Urinario",
+    "Kit": "Kit Urinario",
+    "Código": "Por definir",
+    "Productos Incluidos": "URY + P-X",
+    "Precio USD": 82,
+    "Observaciones": "Recomendación comercial Éxito Natural."
+  },
+  {
+    "Sistema": "Glandular Femenino",
+    "Kit": "Kit Glandular Femenino",
+    "Código": "Por definir",
+    "Productos Incluidos": "Phyto Soy + FC with Dong Quai",
+    "Precio USD": 66.6,
+    "Observaciones": "Recomendación comercial Éxito Natural."
+  },
+  {
+    "Sistema": "Glandular Masculino",
+    "Kit": "Kit Glandular Masculino",
+    "Código": "Por definir",
+    "Productos Incluidos": "Energ-V + Maca",
+    "Precio USD": 68,
+    "Observaciones": "Recomendación comercial Éxito Natural."
+  },
+  {
+    "Sistema": "Estructural",
+    "Kit": "Kit Estructural",
+    "Código": "Por definir",
+    "Productos Incluidos": "Calcio-Magnesio + Clorofila",
+    "Precio USD": 87.5,
+    "Observaciones": "Recomendación comercial Éxito Natural."
+  }
+]

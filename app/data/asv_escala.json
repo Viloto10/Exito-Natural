@@ -1,0 +1,65 @@
+[
+  {
+    "sistema": "Digestivo",
+    "excelente_max": 2,
+    "bueno_max": 4,
+    "regular_max": 9,
+    "bajo_desde": 10
+  },
+  {
+    "sistema": "Intestinal",
+    "excelente_max": 2,
+    "bueno_max": 4,
+    "regular_max": 9,
+    "bajo_desde": 10
+  },
+  {
+    "sistema": "Circulatorio",
+    "excelente_max": 1,
+    "bueno_max": 3,
+    "regular_max": 7,
+    "bajo_desde": 8
+  },
+  {
+    "sistema": "Nervioso",
+    "excelente_max": 2,
+    "bueno_max": 5,
+    "regular_max": 10,
+    "bajo_desde": 11
+  },
+  {
+    "sistema": "Inmunológico",
+    "excelente_max": 2,
+    "bueno_max": 4,
+    "regular_max": 7,
+    "bajo_desde": 8
+  },
+  {
+    "sistema": "Respiratorio",
+    "excelente_max": 0,
+    "bueno_max": 1,
+    "regular_max": 4,
+    "bajo_desde": 5
+  },
+  {
+    "sistema": "Urinario",
+    "excelente_max": 0,
+    "bueno_max": 1,
+    "regular_max": 4,
+    "bajo_desde": 5
+  },
+  {
+    "sistema": "Glandular",
+    "excelente_max": 2,
+    "bueno_max": 5,
+    "regular_max": 10,
+    "bajo_desde": 11
+  },
+  {
+    "sistema": "Estructural",
+    "excelente_max": 1,
+    "bueno_max": 3,
+    "regular_max": 7,
+    "bajo_desde": 8
+  }
+]

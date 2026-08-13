@@ -1,0 +1,42 @@
+[
+  {
+    "Tipo Mensaje": "Invitación al ASV",
+    "Texto Base": "Hola [Nombre] 👋 Estamos realizando gratuitamente el Análisis de Estilo de Vida de Nature's Sunshine para identificar qué sistemas de tu cuerpo pueden beneficiarse de apoyo nutricional. El análisis toma aproximadamente 5 minutos. ¿Te gustaría realizarlo?",
+    "Uso": "Primer contacto"
+  },
+  {
+    "Tipo Mensaje": "Resultado del ASV",
+    "Texto Base": "Gracias por completar tu Análisis de Estilo de Vida. Hemos identificado que los sistemas que requieren mayor atención son: [Sistema Prioritario] y [Sistema Secundario].",
+    "Uso": "Después de calcular ASV"
+  },
+  {
+    "Tipo Mensaje": "Recomendación del Kit",
+    "Texto Base": "De acuerdo con tu resultado, te recomendamos: [Kit Recomendado]. Valor referencial: $[Valor]. ¿Te gustaría que te explique cómo utilizarlo?",
+    "Uso": "Cierre de recomendación"
+  },
+  {
+    "Tipo Mensaje": "Seguimiento a 7 días",
+    "Texto Base": "Hola [Nombre] 👋 Queríamos saber cómo te has sentido desde que comenzaste tu programa NSP. ¿Has notado cambios en digestión, energía o bienestar general?",
+    "Uso": "Post-compra"
+  },
+  {
+    "Tipo Mensaje": "Reactivación de Afiliados",
+    "Texto Base": "Hola [Nombre]. Estamos actualizando nuestra comunidad Éxito Natural y queremos saber si te gustaría volver a aprovechar los beneficios de tu afiliación Nature's Sunshine.",
+    "Uso": "Afiliados antiguos"
+  },
+  {
+    "Tipo Mensaje": "Invitación al Negocio NSP",
+    "Texto Base": "Hola [Nombre]. Además de los beneficios para tu salud, Nature's Sunshine ofrece la oportunidad de generar ingresos recomendando productos naturales. ¿Te gustaría recibir información del negocio?",
+    "Uso": "Prospectos de negocio"
+  },
+  {
+    "Tipo Mensaje": "Renovación Urgente",
+    "Texto Base": "Hola [Nombre] 👋 Vimos que tu membresía Nature's Sunshine está por vencer pronto. Queremos ayudarte a mantener activos tus beneficios de Consultor. ¿Te ayudamos con la renovación esta semana?",
+    "Uso": "NUEVA — pendiente de aprobación. Uso: membresía vence en <51 días."
+  },
+  {
+    "Tipo Mensaje": "Renovación + Interés",
+    "Texto Base": "Hola [Nombre] 👋 Vimos que has estado disfrutando tus productos Nature's Sunshine. Tu membresía vence pronto y queremos asegurarnos de que sigas con tu descuento de Consultor activo. ¿Revisamos juntos tu renovación y qué productos te gustaría reponer?",
+    "Uso": "NUEVA — pendiente de aprobación. Uso: membresía vence 51-90 días + compras recientes."
+  }
+]

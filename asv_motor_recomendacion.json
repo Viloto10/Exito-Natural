@@ -1,0 +1,92 @@
+[
+  {
+    "Sistema / Segmento": "Digestivo",
+    "Estado gatillo": "Bajo",
+    "Recomendación Principal": "Kit Recomendado Detox",
+    "Complemento": "Aloe Vera Juice",
+    "Productos Base": "Aloe Vera Juice",
+    "Programa Sugerido": "Kit Recomendado Detox + Aloe Vera Juice",
+    "Precio Programa USD": 116.2
+  },
+  {
+    "Sistema / Segmento": "Intestinal",
+    "Estado gatillo": "Bajo",
+    "Recomendación Principal": "Kit Recomendado Detox",
+    "Complemento": "Herbal Pumpkin",
+    "Productos Base": "Herbal Pumpkin",
+    "Programa Sugerido": "Kit Recomendado Detox + Herbal Pumpkin",
+    "Precio Programa USD": 96.1
+  },
+  {
+    "Sistema / Segmento": "Circulatorio",
+    "Estado gatillo": "Bajo",
+    "Recomendación Principal": "Kit Circulatorio",
+    "Complemento": "Flax Seed Oil",
+    "Productos Base": "Mega-Chel + Clorofila",
+    "Programa Sugerido": "Kit Circulatorio + Flax Seed Oil",
+    "Precio Programa USD": 167.9
+  },
+  {
+    "Sistema / Segmento": "Inmunológico",
+    "Estado gatillo": "Bajo",
+    "Recomendación Principal": "Kit Inmunológico",
+    "Complemento": "Spirulina Plus",
+    "Productos Base": "Colostrum + Pau d'Arco",
+    "Programa Sugerido": "Kit Inmunológico + Spirulina Plus",
+    "Precio Programa USD": 133.3
+  },
+  {
+    "Sistema / Segmento": "Nervioso",
+    "Estado gatillo": "Bajo",
+    "Recomendación Principal": "Nutri Calm + Gotu Kola",
+    "Complemento": "Mega-Chel + Clorofila",
+    "Productos Base": "Nutri Calm",
+    "Programa Sugerido": "Nutri Calm + Gotu Kola",
+    "Precio Programa USD": 100
+  },
+  {
+    "Sistema / Segmento": "Respiratorio",
+    "Estado gatillo": "Bajo",
+    "Recomendación Principal": "Kit Respiratorio",
+    "Complemento": "Clorofila Líquida",
+    "Productos Base": "ALJ Cápsulas + Pau d'Arco",
+    "Programa Sugerido": "Kit Respiratorio + Clorofila",
+    "Precio Programa USD": 119.1
+  },
+  {
+    "Sistema / Segmento": "Urinario",
+    "Estado gatillo": "Bajo",
+    "Recomendación Principal": "Kit Urinario",
+    "Complemento": "Clorofila Líquida",
+    "Productos Base": "URY + P-X",
+    "Programa Sugerido": "Kit Urinario + Clorofila",
+    "Precio Programa USD": 125.3
+  },
+  {
+    "Sistema / Segmento": "Glandular Femenino",
+    "Estado gatillo": "Bajo",
+    "Recomendación Principal": "Kit Glandular Femenino",
+    "Complemento": "Clorofila Líquida",
+    "Productos Base": "Phyto Soy + FC with Dong Quai",
+    "Programa Sugerido": "Kit Glandular Femenino + Clorofila",
+    "Precio Programa USD": 109.9
+  },
+  {
+    "Sistema / Segmento": "Glandular Masculino",
+    "Estado gatillo": "Bajo",
+    "Recomendación Principal": "Kit Glandular Masculino",
+    "Complemento": "Clorofila Líquida",
+    "Productos Base": "Energ-V + Maca",
+    "Programa Sugerido": "Kit Glandular Masculino + Clorofila",
+    "Precio Programa USD": 111.3
+  },
+  {
+    "Sistema / Segmento": "Estructural",
+    "Estado gatillo": "Bajo",
+    "Recomendación Principal": "Kit Estructural",
+    "Complemento": "Collatrim",
+    "Productos Base": "Calcio-Magnesio + Clorofila",
+    "Programa Sugerido": "Kit Estructural + Collatrim",
+    "Precio Programa USD": 145
+  }
+]

@@ -1,0 +1,735 @@
+{
+  "sistemas": [
+    "Digestivo",
+    "Intestinal",
+    "Circulatorio",
+    "Nervioso",
+    "Inmunológico",
+    "Respiratorio",
+    "Urinario",
+    "Glandular",
+    "Estructural"
+  ],
+  "preguntas": [
+    {
+      "n": 1,
+      "pregunta": "Te sientes frecuentemente débil y cansado, con falta de energía.",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 1,
+        "Circulatorio": 0,
+        "Nervioso": 0,
+        "Inmunológico": 0,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 2,
+      "pregunta": "Sufres enfermedades frecuentemente (1 vez al mes).",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 0,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 3,
+      "pregunta": "Tienes mal olor corporal y/o mal aliento.",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 0,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 1,
+        "Respiratorio": 0,
+        "Urinario": 0,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 4,
+      "pregunta": "En tu dieta hay alimentos que te caen pesados.",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 0,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 5,
+      "pregunta": "Consumes carnes rojas frecuentemente (2 o más veces por semana).",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 0,
+        "Circulatorio": 0,
+        "Nervioso": 1,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 0,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 6,
+      "pregunta": "Padeces de problemas menstruales (hinchazón, dolor).",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 0,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 0,
+        "Glandular": 0,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 7,
+      "pregunta": "Tomas antibióticos frecuentemente (1 vez al mes).",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 0,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 0,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 8,
+      "pregunta": "Consumes alcohol regularmente (2 veces por semana).",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 9,
+      "pregunta": "Tienes cambios de ánimo frecuentemente.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 10,
+      "pregunta": "Tienes alergia a ciertos alimentos.",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 0,
+        "Respiratorio": 0,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 11,
+      "pregunta": "Tienes bolsas debajo de los ojos.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 0,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 0,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 12,
+      "pregunta": "Fumas o estás rodeado de fumadores.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 0,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 0,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 13,
+      "pregunta": "Sufres de falta de concentración o memoria.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 0,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 14,
+      "pregunta": "Tienes poca resistencia a las enfermedades.",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 0,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 15,
+      "pregunta": "Presentas gases después de las comidas.",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 0,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 16,
+      "pregunta": "Tu estilo de vida es estresante.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 0,
+        "Nervioso": 0,
+        "Inmunológico": 0,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 17,
+      "pregunta": "Sufres de afecciones en la piel (acné, erupciones).",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 0,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 0,
+        "Glandular": 0,
+        "Estructural": 0
+      }
+    },
+    {
+      "n": 18,
+      "pregunta": "Tienes antojo por alimentos dulces.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 19,
+      "pregunta": "Consumes regularmente productos lácteos (3 o más veces por semana).",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 0,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 1,
+        "Respiratorio": 0,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 20,
+      "pregunta": "Sientes depresión y/o irritabilidad.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 0,
+        "Circulatorio": 1,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 21,
+      "pregunta": "Sientes poco sueño o tienes sueño inquieto.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 22,
+      "pregunta": "Tienes síntomas de menopausia.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 0
+      }
+    },
+    {
+      "n": 23,
+      "pregunta": "Padeces problemas urinarios frecuentes (1 vez al mes).",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 0,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 24,
+      "pregunta": "Sufres pérdida de cabello.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 0,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 0
+      }
+    },
+    {
+      "n": 25,
+      "pregunta": "Sientes dolor de articulaciones.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 0,
+        "Nervioso": 1,
+        "Inmunológico": 0,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 0
+      }
+    },
+    {
+      "n": 26,
+      "pregunta": "Tienes dificultad para mantener tu peso ideal.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 0,
+        "Inmunológico": 0,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 0
+      }
+    },
+    {
+      "n": 27,
+      "pregunta": "Tienes poca resistencia durante el ejercicio.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 0,
+        "Nervioso": 1,
+        "Inmunológico": 1,
+        "Respiratorio": 0,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 0
+      }
+    },
+    {
+      "n": 28,
+      "pregunta": "Tienes malos hábitos de alimentación.",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 0,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 29,
+      "pregunta": "Tu recuperación de las enfermedades es lenta.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 0,
+        "Circulatorio": 0,
+        "Nervioso": 1,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 30,
+      "pregunta": "Evacuas menos de 3 veces al día.",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 0,
+        "Circulatorio": 1,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 31,
+      "pregunta": "Tienes poco apetito.",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 32,
+      "pregunta": "Te falta impulso sexual.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 33,
+      "pregunta": "Tus uñas son quebradizas o débiles.",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 0
+      }
+    },
+    {
+      "n": 34,
+      "pregunta": "Tu cabello es seco, está dañado o sin vida.",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 0
+      }
+    },
+    {
+      "n": 35,
+      "pregunta": "Tu dieta es alta en grasas y colesterol.",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 0,
+        "Circulatorio": 0,
+        "Nervioso": 1,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 36,
+      "pregunta": "Sufres de nerviosismo, ansiedad o tensión.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 37,
+      "pregunta": "Tu dieta contiene pocas verduras, frutas y cereales.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 0,
+        "Circulatorio": 0,
+        "Nervioso": 1,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 38,
+      "pregunta": "Sufres de calambres musculares.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 0
+      }
+    },
+    {
+      "n": 39,
+      "pregunta": "Estás expuesto a contaminación ambiental.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 0,
+        "Respiratorio": 0,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 40,
+      "pregunta": "Consumes mucho café, té o refresco (más de 2 tazas al día).",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 0
+      }
+    },
+    {
+      "n": 41,
+      "pregunta": "Te sientes fuera de control.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 0,
+        "Inmunológico": 0,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 42,
+      "pregunta": "Eres sensible a ciertos alimentos o químicos.",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 0,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 0,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 43,
+      "pregunta": "Tienes problemas de micosis (hongos).",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 0,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 0,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 44,
+      "pregunta": "Sientes debilidad estructural.",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 0,
+        "Glandular": 1,
+        "Estructural": 0
+      }
+    },
+    {
+      "n": 45,
+      "pregunta": "Te preocupas excesivamente.",
+      "pesos": {
+        "Digestivo": 0,
+        "Intestinal": 1,
+        "Circulatorio": 1,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 46,
+      "pregunta": "Te irritas con facilidad.",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 0,
+        "Circulatorio": 1,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 0,
+        "Estructural": 1
+      }
+    },
+    {
+      "n": 47,
+      "pregunta": "Realizas poco ejercicio (menos de 2 veces por semana).",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 0,
+        "Circulatorio": 0,
+        "Nervioso": 0,
+        "Inmunológico": 1,
+        "Respiratorio": 1,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 0
+      }
+    },
+    {
+      "n": 48,
+      "pregunta": "Presentas exceso de mucosidad (nasal o intestinal).",
+      "pesos": {
+        "Digestivo": 1,
+        "Intestinal": 0,
+        "Circulatorio": 1,
+        "Nervioso": 1,
+        "Inmunológico": 1,
+        "Respiratorio": 0,
+        "Urinario": 1,
+        "Glandular": 1,
+        "Estructural": 1
+      }
+    }
+  ]
+}
